@@ -19,5 +19,5 @@ done
 echo
 cd /data/data/com.termux/files/usr/etc
 rm -rf zshrc
-cd && cd Termux-Banner && cd Ownban && cp CW cd/data/data/com.termux/files/usr/etc
+cd && cd Termux-Banner && cd Ownban && cp zshrc cd/data/data/com.termux/files/usr/etc
 cat "CW" >> /data/data/com.termux/files/usr/etc/bash.bashrc
