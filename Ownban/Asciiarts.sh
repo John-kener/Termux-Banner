@@ -203,7 +203,7 @@ echo -e "\e[1;33m                 [1]  බැනර් එක හදන්න   
 echo -e "\e[1;33m                 [2]  පිටවෙන්න                          ";  
 echo
 
-echo -e "\e[1;33m NOTE : අනිත් ඒවා කරන්න කලින් ,Theme එකක් අනිවා දාගෙන ඉන්න......!!! "
+echo -e "\e[1;33m ❤ ENJOY TERMUX ❤..!!! "
 echo
 read -p' OPTION එකක් තෝරන්න :- ' userinput1;
 if [ "${userinput1:-}" = "1" ]
