@@ -1,7 +1,7 @@
 #!/bin/bash
 # ASCII ARTS
-figlet -f banner ASCII |lolcat -a -d 8
-figlet -f banner ARTS |lolcat -a -d 8
+clear
+figlet -f banner ASCII ARTS |lolcat -a -d 8
 echo
 echo
 echo -e "HERE ARE SOME ASCII ARTS ,SO YOU CAN COPY AND PASTE THEM IN THE NEXT STEP ෴෴෴YOU CAN MAKE YOUR NAME    IN ASCII ART WITH THE WEB SITE GIVEN AT LAST "
