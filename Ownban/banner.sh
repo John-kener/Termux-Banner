@@ -3,10 +3,10 @@ clear
 echo -e " \e[1;32m 
 #BANNER "
 echo
-echo -e " \e[1;33m                        CREATED BY JOHN KENER       "
+echo -e " \e[1;33m                  CREATED BY JOHN KENER       "
 echo
 echo
-echo -e  " \e[1;37m ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ "
+echo -e "\e[1;37m ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
 echo
 
 
