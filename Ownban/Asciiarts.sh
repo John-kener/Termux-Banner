@@ -1,8 +1,8 @@
 #!/bin/bash
 # ASCII ARTS
 clear
-figlet -f banner ASCII ARTS |lolcat -a -d 8
 echo
+figlet -f banner ASCII ARTS |lolcat -a -d 8
 echo
 echo -e "\e[1;35m ________________________________________________________________________"
 echo
