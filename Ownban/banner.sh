@@ -37,7 +37,6 @@ echo -e " \e[1;31m
 echo
 echo -e " \e[1;33m                          TOOL BY JOHN KENER       "
 echo
-echo
 echo -e "\e[1;37m ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄"
 echo
 
