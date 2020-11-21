@@ -35,8 +35,8 @@ echo -e $b "
   ██████  ██   ██ ██   ████ ██   ████ ███████ ██   ██ 
                                     "
 echo -e "\e[1;35m________________________________________________________________________"
-echo -e "\e[1;33m                    BY JOHN KENER "
-echo -e "\e[1;33m                  OWNER OF CYBER WARRIORS "
+echo -e "\e[1;32m                    BY JOHN KENER "
+echo -e "\e[1;32m                  OWNER OF CYBER WARRIORS "
 echo -e "\e[1;37m═════════════════════════════════════════════════════════════════════════"
 echo
 echo -e "\e[1;33m                 [1] Evil eye බැනර් එකක් හදාගන්න           ";  
