@@ -13,12 +13,12 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m               ❤ ENJOY TERMUX ❤  "
+echo -e $lightgreen "\e[1m               ❤ ENJOY TERMUX.!!!❤  "
 echo " "
 echo -e $yellow "\e[1m                           -BY JOHN KENER "
 echo " "
-echo "NOTE:- THIS EVIL EYE BANNER WILL NOT SUPPORT IF YOU HAVE ALREADY EQUIPED A THEME  "
-echo " "
+echo "NOTE:- THIS EVIL EYE BANNER WILL NOT SUPPORT IF YOU HAVE ALREADY EQUIPED A THEME ,,,"
+echo "       SO THEN YOU CAN MAKE YOUR OWN BANNER USING THIS TOOL"
 echo " "
 echo -e "\e[1m\e[33m\nඔයාගේ \e[31mBanner එකේ \e[33mනම\e[32m :\n\n"
 read varbanner
