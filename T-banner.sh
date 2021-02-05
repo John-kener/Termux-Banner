@@ -19,6 +19,7 @@ echo -e "\e[1m\e[32m Developed by :\e[33m JOHN KENER (OWNER OF CYBER WARRIORS CO
 
 figlet -f big Cyber  | lolcat -a -d 10
 figlet -f big Warriors  | lolcat -a -d 10
+xdg-open https://youtu.be/l82a9VmrwpY 
 clear
 echo -e "\e[1;35m________________________________________________________________________"
 echo -e $b " 
